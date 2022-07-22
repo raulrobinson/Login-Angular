@@ -3,9 +3,7 @@ import {Observable} from "rxjs";
 import {LoginObject} from "./login-object.model";
 import {Session} from "../../core/models/session.model";
 import {HttpClient} from "@angular/common/http";
-/**
- * Created by xavi on 5/16/17.
- */
+
 @Injectable()
 export class AuthenticationService {
 

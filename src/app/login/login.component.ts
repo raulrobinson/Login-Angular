@@ -1,6 +1,3 @@
-/**
- * Created by xavi on 5/16/17.
- */
 import {Component, OnInit} from "@angular/core";
 import {Validators, FormGroup, FormBuilder} from "@angular/forms";
 import {LoginObject} from "./shared/login-object.model";

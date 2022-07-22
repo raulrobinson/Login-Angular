@@ -1,6 +1,3 @@
-/**
- * Created by xavi on 5/16/17.
- */
 import {Injectable} from "@angular/core";
 import { Router } from '@angular/router';
 import {Session} from "../models/session.model";
